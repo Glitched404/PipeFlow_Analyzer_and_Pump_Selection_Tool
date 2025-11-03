@@ -1,0 +1,28 @@
+# MATLAB
+*.asv
+*.m~
+*.autosave
+
+# Generated outputs
+outputs/*.txt
+outputs/*.png
+!outputs/.gitkeep
+
+# Saved inputs (optional - include sample but ignore user runs)
+inputs/*.mat
+!inputs/sample_input.mat
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temporary files
+*.tmp
+temp/
