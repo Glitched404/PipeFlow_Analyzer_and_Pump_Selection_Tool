@@ -22,7 +22,7 @@
 1. **Download/Clone** all files to a folder
 2. **Navigate** to the folder in MATLAB:
    ```matlab
-   cd C:\Users\skaft\Fluid_Project
+   cd C:\Users\MATLAB\PipeFlow_Analyzer_and_Pump_Selection_Tool
    ```
 3. **Refresh paths** (if functions are not found):
    ```matlab
@@ -116,7 +116,7 @@ Fluid_Project/
     ├── egl_hgl_profile_*.png          ← EGL/HGL profiles
     └── pressure_profile_*.png         ← Pressure profiles
 
-**Total:** 20 MATLAB files organized in professional structure
+**Total:** 20 MATLAB files 
 ```
 
 ---
